@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dharmender</h1>
 <h3 align="center">A passionate frontend developer from Delhi ,India</h3>
 
-- 🔭 I’m currently working on [E-Commerce Website](https://github.com/techiedharam/E-Commerce-Website)
-
+- 🔭 I’m currently working on Django Development
 - 🌱 I’m currently learning **React JS, Redux , Express**
 
 - 💬 Ask me about **JavaScript, react ,node**
